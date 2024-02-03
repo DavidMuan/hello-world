@@ -1,2 +1,3 @@
 # hello-world
-This is repository for M03 Create a Github Account assignment.
+This is a repository for the M03 Create a Github Account assignment.
+I am 21 years old
